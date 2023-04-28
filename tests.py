@@ -19,3 +19,6 @@ if __name__ == "__main__":
 
     # Report the coverage
     cov.report(show_missing=True)
+
+    #python -m autogpt --speak --gpt3only
+    #pip install -r requirements.txt
